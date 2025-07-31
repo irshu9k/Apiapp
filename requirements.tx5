@@ -1,0 +1,7 @@
+flask
+moviepy
+pydub
+openai-whisper
+requests
+numpy
+Pillow
